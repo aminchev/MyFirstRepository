@@ -3,11 +3,17 @@ Test test and new test from 6.12.2015 and one more change.
 <<<<<<< HEAD
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 And one more row from A.Minchev, but with change in your wor
 A.Minchev next change
 =======
-Samo вафли
 
+
+=======
+Samo CSKS  
+
+Samo Levski ole ole
+>>>>>>> skoda
 
 
 
