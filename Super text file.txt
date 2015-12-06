@@ -2,7 +2,9 @@ Test test and new test from 6.12.2015 and one more change.
 
 <<<<<<< HEAD
 
-Samo CSKS
+Samo CSKS  
+
+Samo Levski ole ole
 
 
 
