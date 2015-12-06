@@ -1,12 +1,1 @@
-Test test and new test from 6.12.2015 and one more change.
-
-<<<<<<< HEAD
-
-Samo CSKS  
-
-Samo Levski ole ole
-
-ALABALAAAAAA
-
-
->>>>>>> 5d47c1ed64f540bccd4838307ccbbc318d14da10
+opa opa oap aop oapo   opa opa 
