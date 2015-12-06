@@ -1,11 +1,9 @@
 Test test and new test from 6.12.2015 and one more change.
 
 <<<<<<< HEAD
-New tests form A-mitev ....  Opa opa.
-=======
-New tests(Some change) form A-mitev ....
-
-And one more row from A.Minchev, but with change in your wor ...
 
 Samo CSKS
+
+
+
 >>>>>>> 5d47c1ed64f540bccd4838307ccbbc318d14da10
