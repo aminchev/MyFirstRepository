@@ -11,7 +11,11 @@ A.Minchev next change
 =======
 Samo вафли
 
+<<<<<<< HEAD
 Utre sme na kurs
+=======
+ALABALAAAAAA
+>>>>>>> skoda
 
 
 >>>>>>> 5d47c1ed64f540bccd4838307ccbbc318d14da10
